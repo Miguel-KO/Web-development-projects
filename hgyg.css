@@ -1,0 +1,121 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .settings {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #ffffff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .settings h2 {
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+  
+  section {
+    margin-bottom: 2rem;
+  }
+  
+  section h3 {
+    margin-bottom: 1rem;
+    color: #007bff;
+  }
+  
+  form {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1rem 2rem;
+  }
+  
+  form label {
+    align-self: center;
+  }
+  
+  form input,
+  form select,
+  form textarea {
+    padding: 0.5rem;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  form textarea {
+    resize: vertical;
+  }
+  
+  form button {
+    grid-column: 1 / -1;
+    padding: 0.75rem;
+    border: none;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  form button:hover {
+    background-color: #0056b3;
+  }
+  
+  .login-activity ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .login-activity ul li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #dee2e6;
+  }
+  
+  .login-activity button {
+    padding: 0.5rem 1rem;
+    border: none;
+    background-color: #dc3545;
+    color: #ffffff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .login-activity button:hover {
+    background-color: #c82333;
+  }
+  
+  .support a {
+    display: block;
+    margin-bottom: 1rem;
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .support a:hover {
+    text-decoration: underline;
+  }
+  
+  .support form {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1rem 2rem;
+  }
+  
+  .support button {
+    grid-column: 1 / -1;
+    padding: 0.75rem;
+    border: none;
+    background-color: #007bff;
+    color: #ffffff;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .support button:hover {
+    background-color: #0056b3;
+  }
+
+  
