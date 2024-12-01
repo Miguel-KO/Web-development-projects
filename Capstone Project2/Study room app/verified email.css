@@ -1,0 +1,109 @@
+.welcome-page{
+    position: relative;
+    width:350px;
+    height:
+    background-color:var(--white);
+    left: 500px;
+    top: 300px;
+
+}
+
+.welcome-page.text-wrapper{
+    position: absolute;
+    width:
+    top: 
+    left:
+    font-family:"BreulGrotesKA-SemiLight", Helvetica;
+    font-weight: 400;
+    color:#000000;
+    font-size: 91.4px;
+    text-align: center;
+    letter-spacing: -3.66px;
+    line-height: 76.8px;
+}
+
+.welcome-page .frame{
+    display:
+    width: 
+    align-items:center;
+    justify-content: center;
+    gap: 8px;
+    padding: 4px 31px;
+    position: absolute;
+    top: 
+    left: 
+    background-color:
+    border-radius: 16px;
+    box-shadow: 
+
+}
+.welcome-page .div{
+    position:relative;
+    right:
+    width: 
+    margin-top:-1px;
+    font-family: "Work Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--accent);
+    font-size: 16px;
+    letter-spacing:0;
+    line-height: 22.4px;
+    white-space: nowrap;
+}
+
+.welcome-page .p{
+    position: relative;
+    top: 
+   
+    font-family:var(--body-base-font-family);
+    font-weight:var(--body-base-font-family);
+    color:var(--accent);
+    font-size: var(--accent)
+    
+    letter-spacing: var(--body-bas-letter-spacing);
+    line-height:var(--body-base-line-height);
+    white-spacing:nowrap;
+    font-style: var(--body-base-font-style);
+    width: 53px;
+    height: 200px;
+
+
+}
+.vector{
+    position:absolute;
+    width: 150px;
+    height: 150px;
+    top:-150px;
+    left:30px;
+}
+
+
+.div{
+    position:relative;
+   
+   
+    
+   
+}
+.text-wrapper{
+    font-size:40px;
+    margin-left: 13px;
+ 
+}
+.p{
+    position: relative;
+    display: inline;
+    left: 605px;
+    top:30px;
+}
+
+button{
+    border-radius: 10px;
+    width: 300px;
+    background-color: rgb(55, 250, 214, 1);
+    position: relative;
+    border-color: rgb(55, 250, 214, 1);
+    right: 630px;
+    bottom :5px;
+
+}

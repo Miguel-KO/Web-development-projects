@@ -1,0 +1,138 @@
+.welcome-screen {
+  background-color: var(--accent);
+  
+  
+  }
+  
+  .welcome-screen .overlap-group {
+
+    
+    
+  }
+  
+  .welcome-screen .welcome-page {
+    position: relative;
+    width:130vh;
+    height: 100vh;
+    left: 509px;
+    background-color: var(--white);
+    box-shadow: 0px 4px 24.4px 4px #0000001a;
+  }
+  
+  .welcome-screen .text-wrapper {
+    position: absolute;
+    width: 506px;
+    top: 225px;
+    left: 256px;
+    font-family: "BreulGroteskA-SemiLight-☞", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 64px;
+    text-align: center;
+    letter-spacing: -2.56px;
+    line-height: 53.8px;
+  }
+  
+  .welcome-screen .frame {
+    top: 391px;
+    background-color: var(--primary);
+    display: flex;
+    width: 350px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 4px 31px;
+    position: absolute;
+    left: 353px;
+    border-radius: 16px;
+  }
+  
+  .welcome-screen .div {
+    position: relative;
+    flex: 1;
+    font-family: "Work Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22.4px;
+  }
+  
+  .welcome-screen .div-wrapper {
+    top: 444px;
+    background-color: var(--secondary);
+    display: flex;
+    width: 350px;
+    height: 36px;
+    align-items: center;
+    justify-content: center;
+    gap: 8px;
+    padding: 4px 31px;
+    position: absolute;
+    left: 353px;
+    border-radius: 16px;
+  }
+  
+  .welcome-screen .text-wrapper-2 {
+    position: relative;
+    flex: 1;
+    font-family: "Work Sans-Medium", Helvetica;
+    font-weight: 500;
+    color: var(--white);
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22.4px;
+  }
+  
+  .welcome-screen .by-signing-up-you {
+    position: absolute;
+    top: 672px;
+    left: 433px;
+    font-family: "Work Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 22.4px;
+  }
+  
+  .welcome-screen .span {
+    color: #8d8e91;
+  }
+  
+  .welcome-screen .text-wrapper-3 {
+    color: #0b0c10;
+    text-decoration: underline;
+  }
+  
+  .welcome-screen .p {
+    position: absolute;
+    top: 333px;
+    left: 361px;
+    font-family: "Work Sans-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 11.8px;
+    white-space: nowrap;
+  }
+  
+  .frame {
+    position: relative;
+    width: 1728px;
+    height: 1117px;
+  }
+  
+  .frame .logo {
+    position: absolute;
+    width: 109px;
+    height: 66px;
+    top: 62px;
+    left: 46px;
+  }

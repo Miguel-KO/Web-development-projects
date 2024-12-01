@@ -1,0 +1,60 @@
+.logo{
+    position: relative;
+    width:90px;
+
+}
+.logo-1{
+    position: absolute;
+    top:200px;
+    left: 30px;
+    height: 350px;
+   
+}
+.left-side{
+    position: relative;
+    width:400px;
+    height: 720px;
+    background-color:rgb(79, 241, 212);
+    padding: 0;
+    
+    
+   
+    
+}
+.right-side{
+    position: absolute;
+    left:550px;
+    bottom:270px; 
+    background-color:
+}
+.h1{
+    font-size:38px;
+    font-weight: 400px;
+   position: absolute;
+   bottom: 110px;
+   left: 80px; 
+}
+.signup{
+    margin-left: 30px;
+    margin-bottom: 10px;
+    width: 450px;
+    display:block;
+    border-radius: 10px;
+    border: solid;
+    background-color: rgba(55, 250, 214, 1);
+    border-color: rgba(55, 250, 214, 1);
+    height:28px;
+    text-decoration:none;
+}
+.login{
+    display:block;
+    margin-left: 30px;
+    width: 450px;
+    border-radius: 10px;
+    border: solid;
+    background-color: rgba(141, 142, 145, 1);
+    height: 28px;
+    border-color:  rgba(141, 142, 145, 1);
+    text-decoration: none;
+}
+

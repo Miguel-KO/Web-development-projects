@@ -1,0 +1,30 @@
+.rectangle{
+    display:flex;
+    align-self: center;
+    display: inline-block;
+    position: relative;
+    left:400px;
+    top:80px;
+}
+.logo{
+    position:relative;
+    left:100px;
+}
+.button{
+    background-color: rgba(11, 12, 16 , 1);
+    border: solid;
+    border-radius: 20px;;
+    width:250px;
+    margin-left: 20px;
+    height: 45px;
+
+}
+.resend{
+    color: rgba(55, 250, 214, 1);
+}
+.confirmation{
+    border: solid;
+    border-color: rgba(55, 250, 214, 1);
+    height: 30px;
+    width: 240px;
+}
